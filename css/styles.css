@@ -31,6 +31,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    align-items: center;
 }
 
 h1 {
@@ -50,6 +51,7 @@ h1 {
     flex-direction: column;
     justify-content: space-between;
     justify-items: center;
+    max-width: 800px;
 }
 
 .card {
